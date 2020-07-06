@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">1to1</string>
+    <string name="hint">NOTE: This is a test application, please check this by using one username as user3 and other username as user4</string>
+</resources>
